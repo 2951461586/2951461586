@@ -5,11 +5,11 @@
 <br/>
 <br/>
 
-<a href="mailto:2951461586@qq.com"><img src="https://img.shields.io/badge/email-2951461586%40qq.com-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=161b22&color=30363d" alt="email"/></a>
+<a href="mailto:1520223597@mail.jxust.edu.cn"><img src="https://img.shields.io/badge/email-1520223597%40mail.jxust.edu.cn-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=161b22&color=30363d" alt="email"/></a>
 &nbsp;
-<a href="https://github.com/2951461586?tab=repositories"><img src="https://img.shields.io/badge/repos-public-0d1117?style=flat-square&logo=github&logoColor=e6edf3&labelColor=161b22&color=30363d" alt="repos"/></a>
+<a href="https://t.me/+PyathCUGGQI4Yjgx"><img src="https://img.shields.io/badge/telegram-交流群-0d1117?style=flat-square&logo=telegram&logoColor=56d4dd&labelColor=161b22&color=30363d" alt="telegram"/></a>
 &nbsp;
-<a href="https://github.com/2951461586"><img src="https://img.shields.io/badge/follow-%402951461586-0d1117?style=flat-square&logo=githubsponsors&logoColor=db61a2&labelColor=161b22&color=30363d" alt="follow"/></a>
+<img src="https://img.shields.io/badge/QQ群-821805461-0d1117?style=flat-square&logo=qq&logoColor=12b7f5&labelColor=161b22&color=30363d" alt="qq"/>
 
 </div>
 

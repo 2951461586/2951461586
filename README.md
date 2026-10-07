@@ -5,11 +5,12 @@
 <br/>
 <br/>
 
-<a href="mailto:1520223597@mail.jxust.edu.cn"><img src="https://img.shields.io/badge/email-1520223597%40mail.jxust.edu.cn-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=161b22&color=30363d" alt="email"/></a>
-&nbsp;
-<a href="https://t.me/+PyathCUGGQI4Yjgx"><img src="https://img.shields.io/badge/telegram-交流群-0d1117?style=flat-square&logo=telegram&logoColor=56d4dd&labelColor=161b22&color=30363d" alt="telegram"/></a>
+<a href="mailto:zhuhaoyi181@gmail.com"><img src="https://img.shields.io/badge/email-zhuhaoyi181%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72&labelColor=161b22&color=30363d" alt="email"/></a>
 &nbsp;
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=NGxJvEhbCe"><img src="https://img.shields.io/badge/QQ群-821805461-0d1117?style=flat-square&logo=qq&logoColor=12b7f5&labelColor=161b22&color=30363d" alt="qq"/></a>
+&nbsp;
+<a href="https://t.me/+PyathCUGGQI4Yjgx"><img src="https://img.shields.io/badge/telegram-交流群-0d1117?style=flat-square&logo=telegram&logoColor=56d4dd&labelColor=161b22&color=30363d" alt="telegram"/></a>
+
 
 </div>
 
